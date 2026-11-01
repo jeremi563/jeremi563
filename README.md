@@ -1,8 +1,14 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=198754&height=120&section=header"/>
+
 <div align="center">
 
 # Hi, I'm Jeremia Obed 👋
 
 ### Full-Stack Software Developer | Backend Engineering | Software Systems
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=198754&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Developer;Backend+Engineering+Enthusiast;Building+Scalable+Software+Systems;Exploring+AI+%26+Software+Architecture;Always+Learning.+Always+Building." alt="Typing SVG"/>
+</p>
 
 Building practical software solutions through clean code, thoughtful architecture, and reliable APIs.
 
@@ -24,18 +30,17 @@ Building practical software solutions through clean code, thoughtful architectur
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineering student at **Kisii University, Kenya**, passionate about designing, developing, and improving software systems that solve real-world problems.
+I'm a third-year Software Engineering student at **Kisii University, Kenya**, passionate about building reliable software systems and solving real-world problems through technology.
 
-My primary focus is **full-stack development, backend engineering, database design, and RESTful API development**. I enjoy working on the logic behind applications, designing reliable data models, integrating services, and building maintainable systems.
+My primary interests are **full-stack development, backend engineering, database design, and REST API development**.
 
-- 🎓 Pursuing a degree in Software Engineering.
+- 🎓 Software Engineering student.
 - 💼 Contributing to software development at **Terrasept Solutions Ltd**.
-- 🚀 Developing backend APIs and working with databases and API contracts.
-- 🌱 Continuously improving my skills in system design, software architecture, and application security.
-- 🛠️ Building and deploying practical projects to strengthen my engineering experience.
-- 🤝 Interested in collaborating on meaningful software projects and open-source contributions.
+- 🚀 Building backend APIs and scalable application systems.
+- 🌱 Exploring system design, software architecture, and application security.
+- 🤝 Open to meaningful collaborations and open-source contributions.
 
-**My engineering philosophy:** Build software that is understandable, maintainable, reliable, and useful.
+**Engineering philosophy:** Build software that is maintainable, reliable, and useful.
 
 ---
 
@@ -91,81 +96,77 @@ My primary focus is **full-stack development, backend engineering, database desi
 
 ## 🚀 Featured Projects
 
-### 1. Peylora — Payments Platform
+### 1. DairyHub — AI-Powered Livestock Management
 
-A payment platform focused on integrating M-Pesa payments and providing payment management functionality.
+A smart livestock management platform developed during **Gusii Innovation Week 2026**, helping farmers monitor animal health and manage livestock operations.
 
-**Highlights**
-- M-Pesa Daraja API integration.
-- STK Push payment initiation.
+- Animal health monitoring and preliminary AI-assisted triage.
+- Livestock records and veterinary case management.
+- Multilingual AI-assisted farmer support.
+
+**Technologies:** React, TypeScript, Node.js, Gemini API, PostgreSQL.
+
+💻 [Source Code](https://github.com/GIW2026Hackathon/DairyHub)
+
+### 2. Peylora — M-Pesa Payments Platform
+
+A payment management platform integrating M-Pesa for digital transactions.
+
+- Daraja API and STK Push integration.
 - Payment and invoice management.
-- Payment links and analytics.
-- Backend services built with Node.js and PostgreSQL.
+- Transaction tracking and analytics.
 
-**Technologies:** React, Node.js, PostgreSQL, Redis, Supabase, M-Pesa Daraja API.
+**Technologies:** React, Node.js, PostgreSQL, Redis, Supabase.
 
-- 🌐 [Live Application](https://peylora-system.vercel.app)
-- 💻 [Source Code](https://github.com/jeremi563/peylora-system)
+🌐 [Live Application](https://peylora-system.vercel.app) | 💻 [Source Code](https://github.com/jeremi563/peylora-system)
 
-### 2. CodeAlpha E-Commerce Platform
+### 3. Elimu — Senior School Management System
 
-A web-based e-commerce application developed as part of the CodeAlpha internship program.
+A collaborative platform designed for Kenyan senior schools and Competency-Based Education (CBE).
 
-**Highlights**
-- E-commerce application development.
-- Backend services using Express.js.
-- PostgreSQL database integration.
-- Application deployment and configuration.
-
-**Technologies:** Node.js, Express.js, PostgreSQL, Prisma, JavaScript.
-
-- 🌐 [Live Application](https://codealpha-ecommerce-id4j.onrender.com)
-- 💻 [Source Code](https://github.com/jeremi563/CodeAlpha_Ecommerce)
-
-### 3. CodeAlpha Social Media Platform
-
-A mini social media application that implements essential social networking functionality.
-
-**Highlights**
-- User registration and profiles.
-- Creating, editing, and deleting posts.
-- Likes and comments.
-- Following and unfollowing users.
-
-**Technologies:** Node.js, Express.js, MongoDB, JavaScript, HTML, CSS.
-
-- 🌐 [Live Application](https://codealpha-socialmediaplatform-5skd.onrender.com)
-- 💻 [Source Code](https://github.com/jeremi563/CodeAlpha_SocialMediaPlatform)
-
-### 4. Elimu — Senior School Management Platform
-
-A school management system designed around the needs of Kenyan senior schools and the Competency-Based Education (CBE) environment.
-
-My contribution focuses on backend development, data management, and API contracts within the development team.
-
-**Areas of contribution**
 - Backend module development.
-- Database design and data relationships.
-- API contracts and service integration.
-- Student, staff, admissions, and academic structure modules.
+- Database design and API contracts.
+- Academic, student, staff, and admissions management.
 
-**Technologies:** TypeScript, Node.js, PostgreSQL, Prisma, Redis, React, and related development tools.
+**Technologies:** TypeScript, Node.js, PostgreSQL, Prisma, Redis.
 
-- 💻 [Project Repository](https://github.com/okech-michael/ELIMU)
+💻 [Project Repository](https://github.com/okech-michael/ELIMU)
+
+### 4. CodeAlpha E-Commerce Platform
+
+An e-commerce application developed during the CodeAlpha internship program.
+
+- Backend API development.
+- Product and database management.
+- Application deployment.
+
+**Technologies:** Node.js, Express.js, PostgreSQL, Prisma.
+
+🌐 [Live Application](https://codealpha-ecommerce-id4j.onrender.com) | 💻 [Source Code](https://github.com/jeremi563/CodeAlpha_Ecommerce)
+
+### 5. CodeAlpha Social Media Platform
+
+A mini social networking application built during the CodeAlpha internship.
+
+- User authentication and profiles.
+- Posts, likes, and comments.
+- Follow and unfollow functionality.
+
+**Technologies:** Node.js, Express.js, MongoDB, JavaScript.
+
+🌐 [Live Application](https://codealpha-socialmediaplatform-5skd.onrender.com) | 💻 [Source Code](https://github.com/jeremi563/CodeAlpha_SocialMediaPlatform)
 
 ---
 
 ## 📈 Current Learning Goals
 
-I'm continuously strengthening my software engineering foundation in the following areas:
-
-- Designing scalable backend architectures.
-- Building secure and maintainable REST APIs.
-- Database modelling, query optimization, and data integrity.
-- Software design patterns and system architecture.
-- Automated testing and reliable deployment workflows.
-- Application security and Linux system administration.
-- Contributing to collaborative software projects.
+- Scalable backend architecture and system design.
+- Secure REST API development.
+- Database optimization and data integrity.
+- Software architecture and design patterns.
+- Automated testing and CI/CD.
+- Application security and Linux administration.
+- Open-source collaboration.
 
 ---
 
@@ -173,15 +174,25 @@ I'm continuously strengthening my software engineering foundation in the followi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jeremi563&show_icons=true&hide_border=true&theme=transparent&title_color=198754&icon_color=198754" alt="GitHub Statistics" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeremi563&show_icons=true&hide_border=true&theme=transparent&title_color=198754&icon_color=198754" alt="GitHub Statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremi563&layout=compact&hide_border=true&theme=transparent&title_color=198754" alt="Most Used Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremi563&layout=compact&hide_border=true&theme=transparent&title_color=198754" alt="Most Used Languages"/>
 
 </div>
 
+### 📈 Contribution Activity
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeremi563&bg_color=ffffff00&color=198754&line=198754&point=198754&area=true&hide_border=true)](https://github.com/jeremi563)
+
+</div>
+
+---
+
 ## 🤝 Let's Connect
 
-I'm interested in connecting with developers, collaborating on software projects, learning from experienced engineers, and contributing to solutions that make a meaningful difference.
+I'm always interested in connecting with developers, collaborating on innovative projects, and contributing to meaningful software solutions.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dev-obed">
@@ -199,3 +210,5 @@ I'm interested in connecting with developers, collaborating on software projects
 *Developing software with purpose.*
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=198754&height=100&section=footer"/>
