@@ -34,139 +34,65 @@ I'm a third-year Software Engineering student at **Kisii University, Kenya**, pa
 
 My primary interests are **full-stack development, backend engineering, database design, and REST API development**.
 
-- 🎓 Software Engineering student.
-- 💼 Contributing to software development at **Terrasept Solutions Ltd**.
-- 🚀 Building backend APIs and scalable application systems.
-- 🌱 Exploring system design, software architecture, and application security.
-- 🤝 Open to meaningful collaborations and open-source contributions.
+- 🎓 Software Engineering student at Kisii University
+- 💼 Contributing to software development at **Terrasept Solutions Ltd**
+- 🚀 Building backend APIs and scalable application systems
+- 🌱 Exploring system design, software architecture, and application security
+- 🤝 Open to meaningful collaborations and open-source contributions
 
-**Engineering philosophy:** Build software that is maintainable, reliable, and useful.
+> **Engineering philosophy:** Build software that is maintainable, reliable, and useful.
 
 ---
 
-## 🧰 Technical Skills
+## 🧰 Tech Stack
 
-### Languages
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
+**Languages**
 
-### Backend Development
+<img src="https://skillicons.dev/icons?i=js,ts,java,html,css&perline=10" alt="Languages"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-198754?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
-</p>
+**Backend**
 
-### Frontend Development
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma&perline=10" alt="Backend"/>
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
+**Frontend**
 
-### Databases & Data Management
+<img src="https://skillicons.dev/icons?i=react,vite&perline=10" alt="Frontend"/>
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
-</p>
+**Databases**
 
-### Tools & Infrastructure
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&perline=10" alt="Databases"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger"/>
-</p>
+**Tools & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,postman&perline=10" alt="Tools"/>
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. DairyHub — AI-Powered Livestock Management
-
-A smart livestock management platform developed during **Gusii Innovation Week 2026**, helping farmers monitor animal health and manage livestock operations.
-
-- Animal health monitoring and preliminary AI-assisted triage.
-- Livestock records and veterinary case management.
-- Multilingual AI-assisted farmer support.
-
-**Technologies:** React, TypeScript, Node.js, Gemini API, PostgreSQL.
-
-💻 [Source Code](https://github.com/GIW2026Hackathon/DairyHub)
-
-### 2. Peylora — M-Pesa Payments Platform
-
-A payment management platform integrating M-Pesa for digital transactions.
-
-- Daraja API and STK Push integration.
-- Payment and invoice management.
-- Transaction tracking and analytics.
-
-**Technologies:** React, Node.js, PostgreSQL, Redis, Supabase.
-
-🌐 [Live Application](https://peylora-system.vercel.app) | 💻 [Source Code](https://github.com/jeremi563/peylora-system)
-
-### 3. Elimu — Senior School Management System
-
-A collaborative platform designed for Kenyan senior schools and Competency-Based Education (CBE).
-
-- Backend module development.
-- Database design and API contracts.
-- Academic, student, staff, and admissions management.
-
-**Technologies:** TypeScript, Node.js, PostgreSQL, Prisma, Redis.
-
-💻 [Project Repository](https://github.com/okech-michael/ELIMU)
-
-### 4. CodeAlpha E-Commerce Platform
-
-An e-commerce application developed during the CodeAlpha internship program.
-
-- Backend API development.
-- Product and database management.
-- Application deployment.
-
-**Technologies:** Node.js, Express.js, PostgreSQL, Prisma.
-
-🌐 [Live Application](https://codealpha-ecommerce-id4j.onrender.com) | 💻 [Source Code](https://github.com/jeremi563/CodeAlpha_Ecommerce)
-
-### 5. CodeAlpha Social Media Platform
-
-A mini social networking application built during the CodeAlpha internship.
-
-- User authentication and profiles.
-- Posts, likes, and comments.
-- Follow and unfollow functionality.
-
-**Technologies:** Node.js, Express.js, MongoDB, JavaScript.
-
-🌐 [Live Application](https://codealpha-socialmediaplatform-5skd.onrender.com) | 💻 [Source Code](https://github.com/jeremi563/CodeAlpha_SocialMediaPlatform)
+| Project | Description | Stack | Links |
+|---|---|---|---|
+| **DairyHub** | AI-powered livestock management built during Gusii Innovation Week 2026: animal health monitoring, AI-assisted triage, veterinary case management, multilingual farmer support | React, TypeScript, Node.js, Gemini API, PostgreSQL | [Code](https://github.com/GIW2026Hackathon/DairyHub) |
+| **Peylora** | M-Pesa payments platform with Daraja API and STK Push, invoice management, transaction tracking and analytics | React, Node.js, PostgreSQL, Redis, Supabase | [Live](https://peylora-system.vercel.app) · [Code](https://github.com/jeremi563/peylora-system) |
+| **Elimu** | Senior school management system for Kenyan CBE: backend modules, database design, API contracts, academic, student, staff and admissions management | TypeScript, Node.js, PostgreSQL, Prisma, Redis | [Code](https://github.com/okech-michael/ELIMU) |
+| **CodeAlpha E-Commerce** | E-commerce app built during the CodeAlpha internship: backend API, product and database management, deployment | Node.js, Express.js, PostgreSQL, Prisma | [Live](https://codealpha-ecommerce-id4j.onrender.com) · [Code](https://github.com/jeremi563/CodeAlpha_Ecommerce) |
+| **CodeAlpha Social Media** | Mini social network: authentication, profiles, posts, likes, comments, follow/unfollow | Node.js, Express.js, MongoDB, JavaScript | [Live](https://codealpha-socialmediaplatform-5skd.onrender.com) · [Code](https://github.com/jeremi563/CodeAlpha_SocialMediaPlatform) |
 
 ---
 
 ## 📈 Current Learning Goals
 
-- Scalable backend architecture and system design.
-- Secure REST API development.
-- Database optimization and data integrity.
-- Software architecture and design patterns.
-- Automated testing and CI/CD.
-- Application security and Linux administration.
-- Open-source collaboration.
+- Scalable backend architecture and system design
+- Secure REST API development
+- Database optimization and data integrity
+- Software architecture and design patterns
+- Automated testing and CI/CD
+- Application security and Linux administration
+- Open-source collaboration
 
 ---
 
@@ -174,9 +100,18 @@ A mini social networking application built during the CodeAlpha internship.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeremi563&show_icons=true&hide_border=true&theme=transparent&title_color=198754&icon_color=198754" alt="GitHub Statistics"/>
+<a href="https://github.com/jeremi563">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jeremi563&show_icons=true&hide_border=true&theme=transparent&title_color=198754&icon_color=198754&text_color=8b949e&count_private=true&include_all_commits=true" alt="GitHub Statistics"/>
+</a>
+<a href="https://github.com/jeremi563">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremi563&layout=compact&hide_border=true&theme=transparent&title_color=198754&text_color=8b949e" alt="Most Used Languages"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremi563&layout=compact&hide_border=true&theme=transparent&title_color=198754" alt="Most Used Languages"/>
+<br/>
+
+<a href="https://github.com/jeremi563">
+  <img src="https://streak-stats.demolab.com?user=jeremi563&theme=transparent&hide_border=true&stroke=8b949e&ring=198754&fire=198754&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=198754&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak"/>
+</a>
 
 </div>
 
@@ -184,7 +119,19 @@ A mini social networking application built during the CodeAlpha internship.
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeremi563&bg_color=ffffff00&color=198754&line=198754&point=198754&area=true&hide_border=true)](https://github.com/jeremi563)
+<a href="https://github.com/jeremi563">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jeremi563&bg_color=0d1117&color=198754&line=198754&point=ffffff&area=true&hide_border=true"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeremi563&bg_color=ffffff&color=198754&line=198754&point=24292f&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  </picture>
+</a>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeremi563/jeremi563/output/github-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/jeremi563/jeremi563/output/github-snake.svg" alt="Contribution snake animation"/>
+</picture>
 
 </div>
 
