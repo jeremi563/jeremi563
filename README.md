@@ -30,7 +30,7 @@ Building practical software solutions through clean code, thoughtful architectur
 
 ## 👨‍💻 About Me
 
-I'm a third-year Software Engineering student at **Kisii University, Kenya**, passionate about building reliable software systems and solving real-world problems through technology.
+I'm a  **Software Engineer** in **Kenya**, passionate about building reliable software systems and solving real-world problems through technology.
 
 My primary interests are **full-stack development, backend engineering, database design, and REST API development**.
 
